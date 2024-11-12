@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">My BMI Calculator</string>
+    <string name="button_calcular">Calculate BMI</string>
+    <string name="button_limpar">Clear Data</string>
+    <string name="label_seu_imc">Your BMI is: </string>
+    <string name="label_situacao">Condition: </string>
+    <string name="label_faixa_ideal">Ideal Range: </string>
+    <string name="msg_dados_invalidos">Please fill in all fields correctly!</string>
+    <string name="sexo_masculino">Male</string>
+    <string name="sexo_feminino">Female</string>
+    <string name="situacao_abaixo_peso">Underweight</string>
+    <string name="situacao_peso_ideal">Ideal weight</string>
+    <string name="situacao_pouco_acima">Slightly overweight</string>
+    <string name="situacao_acima_peso">Overweight</string>
+    <string name="situacao_obesidade">Obesity</string>
+    <string name="titulo_resultado">Result</string>
+    <string name="botao_voltar">Back</string>
+    <string name="descricao">Insert your data below so we can calculate!</string>
+    <string name="hintAltura">Height in meters</string>
+    <string name="hintPeso">Weight in kilograms</string>
+    <string name="radioGroupDescricao">Gender: </string>
+    <string name="resultado">Your BMI is: </string>
+    <string name="situacao">Situation: </string>
+    <string name="faixaIdeal">Your ideal weight range is between (in kilograms): </string>
+</resources>

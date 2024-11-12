@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Minha Calculadora de IMC</string>
+    <string name="descricao">Informe os dados abaixo para realizar o cálculo!</string>
+    <string name="hintAltura">Altura em metros</string>
+    <string name="hintPeso">Peso em quilos</string>
+    <string name="radioGroupDescricao">Sexo: </string>
+    <string name="button_calcular">Calcular IMC</string>
+    <string name="button_limpar">Limpar Dados</string>
+    <string name="label_seu_imc">Seu IMC é: </string>
+    <string name="label_situacao">Situação: </string>
+    <string name="label_faixa_ideal">Faixa Ideal: </string>
+    <string name="msg_dados_invalidos">Por favor, preencha todos os campos corretamente!</string>
+    <string name="sexo_masculino">Masculino</string>
+    <string name="sexo_feminino">Feminino</string>
+    <string name="situacao_abaixo_peso">Abaixo do peso</string>
+    <string name="situacao_peso_ideal">Peso ideal</string>
+    <string name="situacao_pouco_acima">Pouco acima do peso</string>
+    <string name="situacao_acima_peso">Acima do peso</string>
+    <string name="situacao_obesidade">Obesidade</string>
+    <string name="titulo_resultado">Resultado</string>
+    <string name="botao_voltar">Voltar</string>
+    <string name="resultado">Seu IMC é: </string>
+    <string name="situacao">Situação: </string>
+    <string name="faixaIdeal">Sua faixa ideal de peso está entre (em quilos): </string>
+</resources>
